@@ -6,6 +6,6 @@
 <li>HTML</li>
 <li>CSS SASS</li>
 <li>REACTJS</li>
-<li>responsividade</li> 
+<li>RESPONSIVIDADE</li> 
 <li>JAVASCRIPT</li>
 </ol>
