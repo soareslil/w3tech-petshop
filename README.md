@@ -2,8 +2,9 @@
 
 <h1>Projeto WEBSITE PetShop utilizando:<h1> 
 <ol>
-<li>HTML<li>
-<li>CSS SASS<li>
-<li>REACTJS<li>
-<li>Back end NODEJS<li> 
-<li>JAVASCRIPT<li>
+<li>HTML</li>
+<li>CSS SASS</li>
+<li>REACTJS</li>
+<li>Back end NODEJS</li> 
+<li>JAVASCRIPT</li>
+</ol>
